@@ -4,7 +4,7 @@
 
 **Frontend Developer** · React / Next.js / TypeScript
 
-Tashkent, Uzbekistan · 2+ years in production · 20+ shipped projects
+Tashkent, Uzbekistan · 2+ years in production · 25+ shipped projects
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://zafarovpolat.github.io/portfolio/v1/)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zafarovpolat)
@@ -56,6 +56,9 @@ Tashkent, Uzbekistan · 2+ years in production · 20+ shipped projects
 | **Futura Architects** | Architectural bureau portfolio | HTML, CSS, GSAP | [futura-architects.com](https://futura-architects.com) |
 | **ОтветАИ** | Q&A platform with AI | Next.js, TypeScript | [otvetai.ru](https://otvetai.ru) |
 | **СКЛАД 140** | Business equipment e-store | WordPress | [sklad140.ru](https://sklad140.ru) |
+| **КомТранс Сибирь** | International freight logistics | 1C-Bitrix, GSAP | [tk-komtrans.ru](https://tk-komtrans.ru) |
+| **Хан Тур Казань** | Tourism & excursions in Tatarstan | 1C-Bitrix | [hantour-kazan.ru](https://hantour-kazan.ru) |
+| **Electron** | Electronics e-commerce (Azerbaijan) | WooCommerce | [electro.newtech.az](https://electro.newtech.az) |
 | **КомТранс Азия** | Asia logistics & delivery | HTML, CSS, JS | [komtrans.vercel.app](https://komtrans.vercel.app) |
 | **Bella Rose** | Flower delivery, Tashkent | TypeScript, Next.js | [bella-rose.vercel.app](https://bella-rose-gules.vercel.app) |
 | **iComfort** | Apple reseller Uzbekistan | HTML, CSS, JS | [apple-bozor.vercel.app](https://apple-bozor.vercel.app) |
