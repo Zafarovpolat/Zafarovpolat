@@ -81,6 +81,19 @@ Tashkent, Uzbekistan · 2+ years in production · 25+ shipped projects
 
 ---
 
+### 📊 Stats
+
+<div align="center">
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zafarovpolat&theme=nord_dark)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zafarovpolat&theme=nord_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zafarovpolat&theme=nord_dark)
+
+</div>
+
+---
+
 <div align="center">
 
 *Open to remote work and relocation · Available now*
