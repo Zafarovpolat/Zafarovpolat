@@ -47,9 +47,12 @@ Tashkent, Uzbekistan · 2+ years in production · 20+ shipped projects
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Zafarovpolat&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zafarovpolat&theme=github-dark-blue&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zafarovpolat&layout=compact&theme=dark&hide_border=true)
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zafarovpolat&theme=github_dark)
+
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zafarovpolat&theme=github_dark)
+![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zafarovpolat&theme=github_dark)
 
 </div>
 
