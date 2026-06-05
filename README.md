@@ -47,7 +47,7 @@ Tashkent, Uzbekistan · 2+ years in production · 20+ shipped projects
 
 <div align="center">
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Zafarovpolat&theme=github-dark-blue&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Zafarovpolat&theme=github-dark-blue&hide_border=true)
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zafarovpolat&theme=github_dark)
 
