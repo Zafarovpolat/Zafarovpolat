@@ -62,3 +62,5 @@ Tashkent, Uzbekistan · 2+ years in production · 20+ shipped projects
 **React · Next.js · TypeScript · Telegram Mini Apps**
 
 </div>
+<!-- profile -->
+
