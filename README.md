@@ -81,21 +81,6 @@ Tashkent, Uzbekistan · 2+ years in production · 25+ shipped projects
 
 ---
 
-### 📊 Stats
-
-<div align="center">
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Zafarovpolat&theme=github-dark-blue&hide_border=true)
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zafarovpolat&theme=github_dark)
-
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zafarovpolat&theme=github_dark)
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zafarovpolat&theme=github_dark)
-
-</div>
-
----
-
 <div align="center">
 
 *Open to remote work and relocation · Available now*
